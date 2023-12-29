@@ -1,4 +1,4 @@
-# Differential Model for Image Generation
+# Diffusion Model for Image Generation
 
 ## О проекте
 
